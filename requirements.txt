@@ -1,4 +1,7 @@
-langchain
-faiss-cpu
-sentence-transformers
 streamlit
+langchain
+python-dotenv
+faiss-cpu
+transformers
+groq
+huggingface_hub
