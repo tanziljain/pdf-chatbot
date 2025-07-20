@@ -1,9 +1,4 @@
-streamlit
 langchain
 faiss-cpu
-pypdf
-groq
-python-dotenv
 sentence-transformers
-openai
-tiktoken
+streamlit
