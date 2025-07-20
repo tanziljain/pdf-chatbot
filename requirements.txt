@@ -3,6 +3,7 @@ python-dotenv
 langchain
 langchain-community
 langchain-groq
-faiss-cpu
 transformers
-huggingface_hub
+sentence-transformers
+faiss-cpu
+PyMuPDF
