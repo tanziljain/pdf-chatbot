@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from langchain_community.vectorstores import FAISS
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.chains import RetrievalQA
-from langchain.chat_models import ChatGroq
+from langchain_groq import ChatGroq
 
 # Load environment variables (for API keys)
 load_dotenv()
